@@ -1,0 +1,20 @@
+{
+  "name": "my-vercel-project",
+  "version": "1.0.0",
+  "description": "Minecraft Server Player List",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "minecraft-protocol": "^1.9.0"
+  },
+  "devDependencies": {
+    "vercel": "^23.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
